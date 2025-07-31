@@ -1,2 +1,1 @@
-highrise-bot-sdk==24.1.0
-asyncio 
+highrise-bot-sdk==24.1.0 
