@@ -1,0 +1,37 @@
+{
+  "bot_token": "0288f3080eaaf24ce8748445f623737bebbbea63db35fbbd8ec0371ffc5840f6",
+  "room_id": "668bc58d2aa6dd7d3bc16037",
+  "admin_ids": [
+    "6339e5f41763a0c446c187e9",
+    "639af36c7b73c2bfbd42123f"
+  ],
+  "owner_id": "6339e5f41763a0c446c187e9",
+  "moderator_ids": [
+    "6339e5f41763a0c446c187e9",
+    "66b24b585da5196aa5f14794",
+    "637fbe11cb9d6dd9fb4448b9",
+    "63ab030d62b71978d94871e8",
+    "66dd5c5ee501ded6425e2550",
+    "64a178e3ce101e8268a10044"
+  ],
+  "vip_zone": {
+    "x": 13.0,
+    "y": 20.0,
+    "z": 5.0
+  },
+  "forbidden_zones": [],
+  "bot_wallet": 0,
+  "duel_arena": {
+    "x": 16,
+    "y": 15,
+    "z": 16
+  },
+  "vip_price_monthly": 400,
+  "marriage_divorce_cost": 50,
+  "free_divorce_days": 14,
+  "warning_expire_days": 1,
+  "announcements": [
+    "Привет! Мы ищем новых ботов. Если ты готов/а к большой и длительной работе, то напиши владельцам об этом!"
+  ],
+  "announcement_interval": 600
+}
